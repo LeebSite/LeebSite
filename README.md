@@ -1,8 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Ghalib%20Pradipa&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%7C%20PHP%2FLaravel%20%7C%20JavaScript%2FReact&descAlignY=55&descSize=18" alt="Muhammad Ghalib Pradipa" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Software+Engineer+from+Pekanbaru%2C+Indonesia;Building+ScapeGIS+%7C+Inventara+%7C+LeebLabs;Exploring+Spatial+AI+%2B+.NET+10;Open+to+Work+%26+Relocation" alt="Typing animation" />
-</p>
+<img width="100%" src="assets/header.svg" alt="Muhammad Ghalib Pradipa — Software Engineer" />
 
 <p align="center">
   <a href="https://www.leebsite.my.id/"><img src="https://img.shields.io/badge/Portfolio-leebsite.my.id-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -36,13 +32,13 @@ const ghalib = {
 
 ---
 
-### What I'm building now
+### `~/building`
 
 - **ScapeGIS** - SaaS WebGIS and Spatial AI for property developers. Next.js, FastAPI, PostGIS, Gemini.
 - **Inventara** - Asset and inventory management app. .NET 10, ASP.NET Core, SQL Server, Docker.
 - **LeebLabs Studio** - AI studio, starting with Guru AI for teachers and Seller AI for online sellers.
 
-### What I'm exploring
+### `~/exploring`
 
 - Spatial AI and reasoning with Gemini
 - .NET 10, clean architecture, and testing
@@ -50,7 +46,7 @@ const ghalib = {
 
 ---
 
-### Tech stack
+### `~/stack`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,react,nextjs,python,fastapi&theme=light" alt="Core stack" />
@@ -67,7 +63,7 @@ const ghalib = {
 
 ---
 
-### Featured projects
+### `~/projects`
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -78,13 +74,11 @@ const ghalib = {
 
 ---
 
-### GitHub activity
+### `~/activity`
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeebSite&bg_color=0d1117&color=58a6ff&line=2C5364&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
-
-### GitHub stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeebSite&show_icons=true&hide_border=true&count_private=true&title_color=2C5364&icon_color=2C5364" alt="GitHub stats" />
@@ -104,5 +98,3 @@ const ghalib = {
 <p align="center">
   <a href="https://www.linkedin.com/in/ghalibpradipaa/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.leebsite.my.id/">Portfolio</a> &nbsp;·&nbsp; <a href="https://github.com/LeebSite">GitHub</a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="" />
