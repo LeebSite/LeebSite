@@ -12,7 +12,24 @@
 </p>
 
 <p align="center">
-  Fresh Graduate in Informatics Engineering, UIN Sultan Syarif Kasim Riau (GPA 3.66/4.00).<br />
+  <img src="https://komarev.com/ghpvc/?username=LeebSite&label=Profile%20views&color=2C5364&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/LeebSite?label=Followers&style=flat&color=2C5364" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/LeebSite/ScapeGIS?label=ScapeGIS%20stars&style=flat&color=2C5364" alt="ScapeGIS stars" />
+</p>
+
+```ts
+const ghalib = {
+  role: "Software Engineer",
+  location: "Pekanbaru, Indonesia",
+  education: "S1 Informatics, UIN Suska Riau — GPA 3.66/4.00",
+  focus: [".NET (C#)", "PHP / Laravel", "JavaScript / React"],
+  currentlyBuilding: ["ScapeGIS", "Inventara", "LeebLabs Studio"],
+  exploring: ["Spatial AI with Gemini", ".NET 10", "Power BI"],
+  openToWork: true,
+};
+```
+
+<p align="center">
   I build web applications and work with data, mainly with .NET (C#), PHP/Laravel, and JavaScript/React.<br />
   Previously interned at Bank Indonesia (Data), Balai Bahasa Riau (Web Developer), and PT Kilang Pertamina Internasional RU II Dumai (Software Engineer).
 </p>
@@ -61,6 +78,12 @@
 
 ---
 
+### GitHub activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeebSite&bg_color=0d1117&color=58a6ff&line=2C5364&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
 ### GitHub stats
 
 <p align="center">
@@ -70,6 +93,10 @@
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=LeebSite&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LeebSite&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub trophies" />
 </p>
 
 ---
