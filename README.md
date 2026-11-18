@@ -123,12 +123,13 @@
 
 ### `~/contributions`
 
-<img width="100%" src="assets/contribution-grid-v2.svg" alt="Contribution grid — a light orb sweeps left to right lighting the squares" />
-
-<p align="center"><i>A light orb sweeps left → right and lights every square, then all the greens stay lit. Not a snake.</i></p>
+<img width="100%" src="assets/contribution-grid-v3.svg" alt="Contribution grid — a light orb sweeps left to right lighting the squares" />
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghalibpradipaa/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.leebsite.my.id/">Portfolio</a> &nbsp;·&nbsp; <a href="https://github.com/LeebSite">GitHub</a>
+  <a href="https://www.linkedin.com/in/ghalibpradipaa/"><img src="https://img.shields.io/badge/LinkedIn-ghalibpradipaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/LeebSite"><img src="https://img.shields.io/badge/GitHub-LeebSite-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.leebsite.my.id/"><img src="https://img.shields.io/badge/Portfolio-leebsite.my.id-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.instagram.com/gpradiipaa/"><img src="https://img.shields.io/badge/Instagram-gpradiipaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
