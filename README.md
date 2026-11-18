@@ -13,17 +13,9 @@
   <img src="https://img.shields.io/github/stars/LeebSite/ScapeGIS?label=ScapeGIS%20stars&style=flat&color=2C5364" alt="ScapeGIS stars" />
 </p>
 
-```ts
-const ghalib = {
-  role: "Software Engineer",
-  location: "Pekanbaru, Indonesia",
-  education: "S1 Informatics, UIN Suska Riau — GPA 3.66/4.00",
-  focus: [".NET (C#)", "PHP / Laravel", "JavaScript / React"],
-  currentlyBuilding: ["ScapeGIS", "Inventara", "LeebLabs Studio"],
-  exploring: ["Spatial AI with Gemini", ".NET 10", "Power BI"],
-  openToWork: true,
-};
-```
+<p align="center"><i>Just building things, exploring tech, and drinking coffee.</i></p>
+
+<img width="100%" src="assets/about-terminal.svg" alt="ghalib@pekanbaru — whoami, education, focus, building" />
 
 <p align="center">
   I build web applications and work with data, mainly with .NET (C#), PHP/Laravel, and JavaScript/React.<br />
@@ -32,33 +24,51 @@ const ghalib = {
 
 ---
 
-### `~/building`
+### `~/now`
 
-- **ScapeGIS** - SaaS WebGIS and Spatial AI for property developers. Next.js, FastAPI, PostGIS, Gemini.
-- **Inventara** - Asset and inventory management app. .NET 10, ASP.NET Core, SQL Server, Docker.
-- **LeebLabs Studio** - AI studio, starting with Guru AI for teachers and Seller AI for online sellers.
+| Building | Status | Stack |
+| --- | --- | --- |
+| [ScapeGIS](https://github.com/LeebSite/ScapeGIS) — SaaS WebGIS and Spatial AI for property developers | In progress | Next.js, FastAPI, PostGIS, Gemini |
+| [Inventara](https://github.com/LeebSite/Inventara) — Asset and inventory management | In progress | .NET 10, ASP.NET Core, SQL Server, Docker |
+| [LeebLabs Studio](https://github.com/LeebSite/LeebLabs-Studio) — AI studio for teachers and sellers | In progress | React, TypeScript, Vite |
 
 ### `~/exploring`
 
-- Spatial AI and reasoning with Gemini
-- .NET 10, clean architecture, and testing
-- Data analysis and dashboards with SQL, Python, and Power BI
+- **Spatial AI with Gemini** — reasoning over maps and property data in ScapeGIS
+- **.NET 10** — clean architecture, testing, and shipping Inventara properly
+- **Data and dashboards** — SQL, Python, and Power BI, from raw data to something people can read
+- **WebGIS and PostGIS** — spatial queries, layers, and maps that actually load fast
 
 ---
 
 ### `~/stack`
 
+**Languages &amp; Frameworks**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,react,nextjs,python,fastapi&theme=light" alt="Core stack" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,postman,figma&theme=light" alt="Data and tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,react,nextjs,python,fastapi&theme=light" alt="Languages and frameworks" />
+</p>
+
+**Data**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="Databases" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+**Tools &amp; Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,vite,tailwind,html,css,bootstrap&theme=light" alt="Tools and platforms" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/REST_APIs-2C5364?style=flat" alt="REST APIs" />
 </p>
 
 ---
