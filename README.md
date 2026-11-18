@@ -123,7 +123,8 @@
 
 ### `~/contributions`
 
-<img width="100%" src="assets/contribution-grid-v3.svg" alt="Contribution grid — a light orb sweeps left to right lighting the squares" />
+<img width="100%" src="assets/contribution-grid-v2.svg" alt="Contribution grid — a light orb sweeps left to right lighting the squares" />
+
 
 ---
 
