@@ -1,62 +1,81 @@
-# Hi, I'm Muhammad Ghalib Pradipa
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Ghalib%20Pradipa&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%7C%20PHP%2FLaravel%20%7C%20JavaScript%2FReact&descAlignY=55&descSize=18" alt="Muhammad Ghalib Pradipa" />
 
-Software Engineer from Pekanbaru, Indonesia. I build web applications and work with data, mainly with .NET (C#), PHP/Laravel, and JavaScript/React.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Software+Engineer+from+Pekanbaru%2C+Indonesia;Building+ScapeGIS+%7C+Inventara+%7C+LeebLabs;Exploring+Spatial+AI+%2B+.NET+10;Open+to+Work+%26+Relocation" alt="Typing animation" />
+</p>
 
-Fresh Graduate in Informatics Engineering, UIN Sultan Syarif Kasim Riau (GPA 3.66/4.00). Previously interned at Bank Indonesia (Data), Balai Bahasa Riau (Web Developer), and PT Kilang Pertamina Internasional RU II Dumai (Software Engineer).
+<p align="center">
+  <a href="https://www.leebsite.my.id/"><img src="https://img.shields.io/badge/Portfolio-leebsite.my.id-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ghalibpradipaa/"><img src="https://img.shields.io/badge/LinkedIn-ghalibpradipaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-2C5364?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-Pekanbaru%2C_Indonesia-203A43?style=for-the-badge" alt="Pekanbaru, Indonesia" />
+</p>
 
-Open to work and relocation.
+<p align="center">
+  Fresh Graduate in Informatics Engineering, UIN Sultan Syarif Kasim Riau (GPA 3.66/4.00).<br />
+  I build web applications and work with data, mainly with .NET (C#), PHP/Laravel, and JavaScript/React.<br />
+  Previously interned at Bank Indonesia (Data), Balai Bahasa Riau (Web Developer), and PT Kilang Pertamina Internasional RU II Dumai (Software Engineer).
+</p>
 
-## What I'm building now
+---
+
+### What I'm building now
 
 - **ScapeGIS** - SaaS WebGIS and Spatial AI for property developers. Next.js, FastAPI, PostGIS, Gemini.
 - **Inventara** - Asset and inventory management app. .NET 10, ASP.NET Core, SQL Server, Docker.
 - **LeebLabs Studio** - AI studio, starting with Guru AI for teachers and Seller AI for online sellers.
 
-## What I'm exploring
+### What I'm exploring
 
 - Spatial AI and reasoning with Gemini
 - .NET 10, clean architecture, and testing
 - Data analysis and dashboards with SQL, Python, and Power BI
 
-## Tech stack
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+### Tech stack
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,react,nextjs,python,fastapi&theme=light" alt="Core stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,postman,figma&theme=light" alt="Data and tools" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
-## Featured projects
+---
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [ScapeGIS](https://github.com/LeebSite/ScapeGIS) | WebGIS and Spatial AI for property developers | Next.js, FastAPI, PostGIS, Gemini |
-| [Inventara](https://github.com/LeebSite/Inventara) | Asset and inventory management | .NET 10, ASP.NET Core, SQL Server |
-| [LeebLabs Studio](https://github.com/LeebSite/LeebLabs-Studio) | AI studio for teachers and sellers | React, TypeScript, Vite |
-| [SIMIT](https://github.com/LeebSite/SIMIT) | Internship information system, built at Pertamina RU II Dumai | ASP.NET Core, SQL Server |
-| [Portfolio](https://github.com/LeebSite/leebsite-portofolio) | Personal portfolio website | React, Vite |
+### Featured projects
 
-## GitHub stats
+<p align="center">
+  <a href="https://github.com/LeebSite/ScapeGIS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=ScapeGIS&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="ScapeGIS" /></a>
+  <a href="https://github.com/LeebSite/Inventara"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=Inventara&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="Inventara" /></a>
+  <a href="https://github.com/LeebSite/LeebLabs-Studio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=LeebLabs-Studio&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="LeebLabs Studio" /></a>
+  <a href="https://github.com/LeebSite/SIMIT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=SIMIT&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="SIMIT" /></a>
+</p>
 
-![Ghalib's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeebSite&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeebSite&layout=compact&hide_border=true)
+---
 
-## Connect with me
+### GitHub stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghalibpradipaa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-leebsite.my.id-000000?style=flat&logo=vercel&logoColor=white)](https://www.leebsite.my.id/)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeebSite&show_icons=true&hide_border=true&count_private=true&title_color=2C5364&icon_color=2C5364" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeebSite&layout=compact&hide_border=true&title_color=2C5364" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=LeebSite&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghalibpradipaa/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.leebsite.my.id/">Portfolio</a> &nbsp;·&nbsp; <a href="https://github.com/LeebSite">GitHub</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="" />
