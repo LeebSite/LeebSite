@@ -87,9 +87,8 @@
 ### `~/analytics`
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=LeebSite&hide_border=true&background=0d1117&border=0d1117&stroke=0d1117&ring=58a6ff&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=LeebSite&hide_border=true&background=0d1117&border=0d1117&stroke=0d1117&ring=58a6ff&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub streak" />
 </p>
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -100,7 +99,6 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -114,7 +112,6 @@
     </td>
   </tr>
 </table>
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeebSite&bg_color=0d1117&color=58a6ff&line=2C5364&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
