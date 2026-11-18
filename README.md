@@ -84,24 +84,48 @@
 
 ---
 
-### `~/activity`
+### `~/analytics`
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=LeebSite&hide_border=true&background=0d1117&border=0d1117&stroke=0d1117&ring=58a6ff&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub streak" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LeebSite&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeebSite&layout=compact&langs_count=5&hide=cython,blade,c&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeebSite&theme=github_dark" alt="Profile details" />
+    </td>
+    <td valign="top" width="33%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeebSite&theme=github_dark" alt="Repos per language" />
+    </td>
+    <td valign="top" width="33%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeebSite&theme=github_dark" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeebSite&bg_color=0d1117&color=58a6ff&line=2C5364&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeebSite&show_icons=true&hide_border=true&count_private=true&title_color=2C5364&icon_color=2C5364" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeebSite&layout=compact&hide_border=true&title_color=2C5364" alt="Top languages" />
-</p>
+---
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=LeebSite&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" alt="GitHub streak" />
-</p>
+### `~/contributions`
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LeebSite&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub trophies" />
-</p>
+<img width="100%" src="assets/contribution-grid-v2.svg" alt="Contribution grid — a light orb sweeps left to right lighting the squares" />
+
+<p align="center"><i>A light orb sweeps left → right and lights every square, then all the greens stay lit. Not a snake.</i></p>
 
 ---
 
