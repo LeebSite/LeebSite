@@ -52,12 +52,12 @@
 
 ### Featured projects
 
-<p align="center">
-  <a href="https://github.com/LeebSite/ScapeGIS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=ScapeGIS&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="ScapeGIS" /></a>
-  <a href="https://github.com/LeebSite/Inventara"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=Inventara&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="Inventara" /></a>
-  <a href="https://github.com/LeebSite/LeebLabs-Studio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=LeebLabs-Studio&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="LeebLabs Studio" /></a>
-  <a href="https://github.com/LeebSite/SIMIT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeebSite&repo=SIMIT&hide_border=true&title_color=2C5364&icon_color=2C5364" alt="SIMIT" /></a>
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [ScapeGIS](https://github.com/LeebSite/ScapeGIS) | WebGIS and Spatial AI for property developers | Next.js, FastAPI, PostGIS, Gemini |
+| [Inventara](https://github.com/LeebSite/Inventara) | Asset and inventory management | .NET 10, ASP.NET Core, SQL Server |
+| [LeebLabs Studio](https://github.com/LeebSite/LeebLabs-Studio) | AI studio for teachers and sellers | React, TypeScript, Vite |
+| [SIMIT](https://github.com/LeebSite/SIMIT) | Internship information system, built at Pertamina RU II Dumai | ASP.NET Core, SQL Server |
 
 ---
 
