@@ -126,8 +126,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghalibpradipaa/"><img width="42" height="42" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/LeebSite"><img width="42" height="42" src="https://cdn.simpleicons.org/github/white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gpradiipaa/"><img width="42" height="42" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://www.leebsite.my.id/"><img width="42" height="42" src="https://cdn.simpleicons.org/vercel/white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ghalibpradipaa/"><img width="48" height="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/LeebSite"><img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gpradiipaa/"><img width="48" height="48" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.leebsite.my.id/"><img width="48" height="48" src="assets/social-web.svg" alt="Portfolio website" /></a>
 </p>
