@@ -126,8 +126,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghalibpradipaa/"><img src="https://img.shields.io/badge/LinkedIn-ghalibpradipaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/LeebSite"><img src="https://img.shields.io/badge/GitHub-LeebSite-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.leebsite.my.id/"><img src="https://img.shields.io/badge/Portfolio-leebsite.my.id-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.instagram.com/gpradiipaa/"><img src="https://img.shields.io/badge/Instagram-gpradiipaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/ghalibpradipaa/"><img width="42" height="42" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/LeebSite"><img width="42" height="42" src="https://cdn.simpleicons.org/github/white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gpradiipaa/"><img width="42" height="42" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.leebsite.my.id/"><img width="42" height="42" src="https://cdn.simpleicons.org/vercel/white" alt="Portfolio" /></a>
 </p>
